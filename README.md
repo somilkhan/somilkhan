@@ -17,10 +17,5 @@ Currently working on **MewMobile** and **Mylo**.
   </a>
 </p>
 
-## Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/somilkhan/zen/main/cards/03-contributions.svg" alt="GitHub contribution activity over the last year" width="100%">
-</p>
-
-[GitHub](https://github.com/somilkhan) · [Repositories](https://github.com/somilkhan?tab=repositories) · [Activity](https://github.com/somilkhan?tab=activity)
+[GitHub](https://github.com/somilkhan) · [Repositories](https://github.com/somilkhan?tab=repositories)
