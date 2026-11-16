@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- Profile README for Zen -->
 
-<!--
-**somilkhan/somilkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/somilkhan/zen/main/cards/01-hero.svg" alt="Zen — developer profile" width="100%">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/somilkhan/zen/main/cards/02-links.svg" alt="GitHub, projects and activity links" width="100%">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/somilkhan/zen/main/cards/03-contributions.svg" alt="GitHub contribution activity" width="100%">
+  <img src="https://raw.githubusercontent.com/somilkhan/zen/main/cards/04-monthly.svg" alt="Monthly contribution activity" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/somilkhan/zen/main/cards/project-01-mewmobile.svg" alt="MewMobile — featured project" width="100%">
+  <img src="https://raw.githubusercontent.com/somilkhan/zen/main/cards/project-02-mylo.svg" alt="Mylo — featured project" width="100%">
+  <img src="https://raw.githubusercontent.com/somilkhan/zen/main/cards/project-03-project-lightning.svg" alt="Project Lightning — featured project" width="100%">
+  <img src="https://raw.githubusercontent.com/somilkhan/zen/main/cards/project-04-spotui.svg" alt="Spotui — featured project" width="100%">
+  <img src="https://raw.githubusercontent.com/somilkhan/zen/main/cards/project-05-lastwave.svg" alt="LastWave — featured project" width="100%">
+</p>
